@@ -27,8 +27,8 @@ public class DbInitializer
             {
                 Name = "Angular Speedster Board 2000",
                 Description = "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere",
-                Price = 20000,
-                PictureUrl = "/images/products/sb-ang1.png",
+                Price = 200000,
+                PictureUrl = "/images/products/capy.jpg",
                 Brand = "Angular",
                 Type = "Boards",
                 QuantityInStock = 100
@@ -38,7 +38,7 @@ public class DbInitializer
                 Name = "Green Angular Board 3000",
                 Description = "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
                 Price = 15000,
-                PictureUrl = "/images/products/sb-ang2.png",
+                PictureUrl = "/images/products/dog.jpg",
                 Brand = "Angular",
                 Type = "Boards",
                 QuantityInStock = 100
@@ -48,7 +48,7 @@ public class DbInitializer
                 Name = "Core Board Speed Rush 3",
                 Description = "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenat",
                 Price = 18000,
-                PictureUrl = "/images/products/sb-core1.png",
+                PictureUrl = "/images/products/cat.jpg",
                 Brand = "NetCore",
                 Type = "Boards",
                 QuantityInStock = 100
@@ -58,7 +58,7 @@ public class DbInitializer
                 Name = "Net Core Super Board",
                 Description = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy",
                 Price = 30000,
-                PictureUrl = "/images/products/sb-core2.png",
+                PictureUrl = "/images/products/capy.jpg",
                 Brand = "NetCore",
                 Type = "Boards",
                 QuantityInStock = 100
@@ -68,7 +68,7 @@ public class DbInitializer
                 Name = "React Board Super Whizzy Fast",
                 Description = "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed",
                 Price = 25000,
-                PictureUrl = "/images/products/sb-react1.png",
+                PictureUrl = "/images/products/dog.jpg",
                 Brand = "React",
                 Type = "Boards",
                 QuantityInStock = 100
@@ -78,7 +78,7 @@ public class DbInitializer
                 Name = "Typescript Entry Board",
                 Description = "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna",
                 Price = 12000,
-                PictureUrl = "/images/products/sb-ts1.png",
+                PictureUrl = "/images/products/cat.jpg",
                 Brand = "TypeScript",
                 Type = "Boards",
                 QuantityInStock = 100
@@ -88,7 +88,7 @@ public class DbInitializer
                 Name = "Core Blue Hat",
                 Description = "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
                 Price = 1000,
-                PictureUrl = "/images/products/hat-core1.png",
+                PictureUrl = "/images/products/capy.jpg",
                 Brand = "NetCore",
                 Type = "Hats",
                 QuantityInStock = 100
@@ -98,7 +98,7 @@ public class DbInitializer
                 Name = "Green React Woolen Hat",
                 Description = "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
                 Price = 8000,
-                PictureUrl = "/images/products/hat-react1.png",
+                PictureUrl = "/images/products/dog.jpg",
                 Brand = "React",
                 Type = "Hats",
                 QuantityInStock = 100
@@ -108,7 +108,7 @@ public class DbInitializer
                 Name = "Purple React Woolen Hat",
                 Description = "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
                 Price = 1500,
-                PictureUrl = "/images/products/hat-react2.png",
+                PictureUrl = "/images/products/cat.jpg",
                 Brand = "React",
                 Type = "Hats",
                 QuantityInStock = 100
@@ -118,7 +118,7 @@ public class DbInitializer
                 Name = "Green React Gloves",
                 Description = "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
                 Price = 1400,
-                PictureUrl = "/images/products/glove-react2.png",
+                PictureUrl = "/images/products/capy.jpg",
                 Brand = "React",
                 Type = "Gloves",
                 QuantityInStock = 100
@@ -128,7 +128,7 @@ public class DbInitializer
                 Name = "Redis Red Boots",
                 Description = "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
                 Price = 25000,
-                PictureUrl = "/images/products/boot-redis1.png",
+                PictureUrl = "/images/products/dog.jpg",
                 Brand = "Redis",
                 Type = "Boots",
                 QuantityInStock = 100
@@ -138,7 +138,7 @@ public class DbInitializer
                 Name = "Core Red Boots",
                 Description = "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies",
                 Price = 18999,
-                PictureUrl = "/images/products/boot-core2.png",
+                PictureUrl = "/images/products/cat.jpg",
                 Brand = "NetCore",
                 Type = "Boots",
                 QuantityInStock = 100
@@ -148,7 +148,7 @@ public class DbInitializer
                 Name = "Core Purple Boots",
                 Description = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauri",
                 Price = 19999,
-                PictureUrl = "/images/products/boot-core1.png",
+                PictureUrl = "/images/products/capy.jpg",
                 Brand = "NetCore",
                 Type = "Boots",
                 QuantityInStock = 100
@@ -158,7 +158,7 @@ public class DbInitializer
                 Name = "Angular Purple Boots",
                 Description = "Aenean nec lorem. In porttitor. Donec coreet nonummy augue.",
                 Price = 15000,
-                PictureUrl = "/images/products/boot-ang2.png",
+                PictureUrl = "/images/products/dog.jpg",
                 Brand = "Angular",
                 Type = "Boots",
                 QuantityInStock = 100
@@ -168,7 +168,7 @@ public class DbInitializer
                 Name = "Angular Blue Boots",
                 Description = "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend",
                 Price = 18000,
-                PictureUrl = "/images/products/boot-ang1.png",
+                PictureUrl = "/images/products/cat.jpg",
                 Brand = "Angular",
                 Type = "Boots",
                 QuantityInStock = 100
